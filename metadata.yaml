@@ -1,5 +1,8 @@
 _repo: Mary-Regan_71337
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71337-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, Leroy
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1176
     wikipedia: https://en.wikipedia.org/wiki/Leroy_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71337#Mary-Regan
 gutenberg_issued: '2023-08-05'
 identifiers:
   gutenberg: '71337'
